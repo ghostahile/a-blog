@@ -1,4 +1,8 @@
 +++
+
+title = []
 tags = []
-categories = []
+date = []
+image = []
+description = []
 +++

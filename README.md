@@ -1,19 +1,3 @@
-# Victor Hugo CMS Template
-<!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bdougie/strata-cms-template)
-
-![mrtable image](https://s3-us-west-1.amazonaws.com/publis-brian-images/mrtable.png)
-
-**A [Hugo](http://gohugo.io/) boilerplate for creating truly epic websites**
-
-This is a boilerplate for using Hugo as a static site generator and Gulp + Weback as your
-asset pipeline.
-
-It's setup to use post-css and babel for CSS and JavaScript.
-
-## Usage
-Be sure that you have the latest node, npm and [Hugo](https://gohugo.io/overview/installing/) installed. If you need to install hugo, run:
-
 Clone this repository and run:
 
 ```bash

@@ -5,9 +5,11 @@
 		{{ partial "post-meta" . }}
 	</span>
 
+		{{ .Params.image }}
+
 	<p>
 	    {{ .Content }}
 	</p>
 
-	{{ template "_internal/disqus.html" . }}
+
 {{ end }}
