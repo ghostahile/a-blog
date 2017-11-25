@@ -1,8 +1,10 @@
 ---
 title: Second Post
+coverimage: /img/blog/Shawn profile pic v2.jpg
 date: 2016-09-09T14:24:16.000Z
 tags:
-  - ashoka
+  - ashoka cxc
+  - life blog
 ---
 
 
