@@ -1,12 +1,13 @@
 ---
 title: Testing Page 1
-coverimage: /img/blog/student id.jpeg
+image: /img/blog/student id.jpeg
 date: 2017-11-25T01:02:03.260Z
 tags:
   - life
   - ashoka cxc
   - blog
+description: this is an seo description to test the meta data if working correctly.
 ---
 copyskfnsaoifnsaionfiosanfiosanfoisancnxoivncoixvixkvnkcxvnklcnvkcxlvncxnkvlcnv
 
-snvslcvnlsnvjnsjvnsdjvnjsdnvljds
+snvslcvnlsnvjnsjvnsdjvnjsdnvljdssac,sa c sakcknaslc lksancinsaiocnoasinciosancioas
